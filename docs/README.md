@@ -27,4 +27,4 @@ Quality assurance and release practices are embedded throughout delivery rather 
 
 ---
 
-Closes #2
+For details, see the individual documents in the [`docs/`](./) folder.
